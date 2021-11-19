@@ -1,2 +1,2 @@
-# FeatureEngineering Intro
-FeatureEngineering Basic Class
+# Pandas Intro
+Feature Engineering Basic Class
