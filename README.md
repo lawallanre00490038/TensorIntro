@@ -1,2 +1,2 @@
 # Pandas Intro
-Feature Engineering Basic Class
+Feature Engineering and Table Merging Basic Class
